@@ -1,1 +1,18 @@
+em {
+  background-color: lightblue;
+}
 
+
+#boxmodeldemo {
+  margin: 20%;
+  border: 2px red dashed;
+  padding: 10%;
+  width: 60%;
+}
+#div {
+  width: 300px;
+  border: 1px black;
+}
+.demoContainer {
+  width: 200px;
+}
